@@ -51,7 +51,7 @@ Install the packages in your project directory with npm
   npm install bootstrap
   npm install @mui/icons-material
 ```
-## Screenshots
+## Screenshot
 
 ![App Screenshot](animeweb.png)
 
