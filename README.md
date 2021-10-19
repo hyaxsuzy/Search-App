@@ -6,6 +6,7 @@ An anime webpage using react js and hooks that automatically searches and filter
 
 ## Features
 
+- Simple Navigation Bar with Search Filter
 - Bootstrap Card Hover Zoom in/out Effect
 - Glassmorphism Card
 
