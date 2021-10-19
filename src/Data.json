@@ -1,0 +1,86 @@
+[
+    {
+        "anime_id":1,
+        "anime_name":"Bleach",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+        "anime_desc":"Ichigo Kurosaki never asked for the ability to see ghosts; he was born with the gift. When his family is attacked by a Hollow, a malevolent lost soul. Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
+        "anime_url":"https://kissanime.com.ru/Anime/Bleach.12740/"
+    },
+    {
+        "anime_id":2,
+        "anime_name":"Black Clover",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+        "anime_desc":"The story centers around Asta, a young boy born without any magic power. This is unknown to the world he lives in because seemingly everyone has some sort of magic power.",
+        "anime_url":"https://kissanime.com.ru/Anime/black-clover-tv.14401/"
+    },
+    {
+        "anime_id":3,
+        "anime_name":"Dragon Ball",
+        "anime_img":"https://i.pinimg.com/originals/ce/96/a3/ce96a3af3ec43f1331d3f39997180e63.jpg",
+        "anime_desc":"The series begins with a young monkey-tailed boy named Goku befriending a teenage girl named Bulma. Together, they go on an adventure to find the seven mystical Dragon Balls, which have the ability to summon the powerful dragon Shenron, who can grant whoever summoned him their greatest desire.",
+        "anime_url":"https://kissanime.com.ru/Anime/Dragon-Ball-Super.84767/"
+    },
+    {
+        "anime_id":4,
+        "anime_name":"Jujutsu Kaisen",
+        "anime_img":"https://i.pinimg.com/originals/8e/55/40/8e5540877c7e2b32647b286d84fe078d.jpg",
+        "anime_desc":"The story follows high school student Yuji Itadori as he joins a secret organization of Jujutsu Sorcerers in order to kill a powerful Curse named Ryomen Sukuna, of whom Yuji becomes the host.",
+        "anime_url":"https://kissanime.com.ru/Anime/sorcery-fight-dub.54899/"
+    },
+    {
+        "anime_id":5,
+        "anime_name":"Fullmetal Alchemist: Brotherhood",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "anime_desc":"The series follows the story of two alchemist brothers, Edward and Alphonse Elric, who want to restore their bodies after a disastrous failed attempt to bring their mother back to life through alchemy.",
+        "anime_url":"https://kissanime.com.ru/Anime/Fullmetal-Alchemist-Brotherhood.73356/"
+    },
+    {
+        "anime_id":6,
+        "anime_name":"Naruto",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "anime_desc":"Naruto is a story about a boy, a resident of the Hidden Leaf Village, who witnessed pain since he was born and strives hard to achieve recognition in his own village by vowing to himself to become the village leader. He shares a friendly relation with another kid Sasuke who is a genius unlike him who wishes to avenge the death of his clan by killing his elder brother.",
+        "anime_url":"https://kissanime.com.ru/Anime/Naruto-Shippuuden.30522/"
+    },
+    {
+        "anime_id":7,
+        "anime_name":"Gintama ",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg",
+        "anime_desc":"Gintama is a story of a handyman named Gintoki, a samurai with no respect for rules set by the invaders, who's ready to take any job to survive. He and his gang, however, are also among the very few who have not forgotten the morale of a swordsman. Wherever they go, all they do is to create troubles.",
+        "anime_url":"https://kissanime.com.ru/Anime/gintama.41671/"
+    },
+    {
+        "anime_id":8,
+        "anime_name":"One Piece",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "anime_desc":"The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit.",
+        "anime_url":"https://kissanime.com.ru/Anime/One-Piece.33946/"
+    },
+    {
+        "anime_id":9,
+        "anime_name":"Demon Slayer",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+        "anime_desc":"Demon Slayer: Kimetsu no Yaiba 'Blade of Demon Destruction' is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows teenage Tanjiro Kamado, who strives to become a demon slayer after his family was slaughtered and his younger sister Nezuko turned into a demon.",
+        "anime_url":"https://kissanime.com.ru/Anime/kimetsu-no-yaiba-sub.11577/"
+    },
+    {
+        "anime_id":10,
+        "anime_name":"Attack on Titan",
+        "anime_img":"https://flxt.tmsimg.com/assets/p10701949_b_v8_ah.jpg",
+        "anime_desc":"It is set in a world where humanity lives inside cities surrounded by three enormous walls that protect them from the gigantic man-eating humanoids referred to as Titans; the story follows Eren Yeager, who vows to exterminate the Titans after a Titan brings about the destruction of his hometown and the death of his mother.",
+        "anime_url":"https://kissanime.com.ru/Anime/Shingeki-no-Kyojin.55888/"
+    },
+    {
+        "anime_id":11,
+        "anime_name":"Hunter x Hunter",
+        "anime_img":"https://m.media-amazon.com/images/M/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg",
+        "anime_desc":"A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter.",
+        "anime_url":"https://kissanime.com.ru/Anime/Hunter-x-Hunter.50629/"
+    },
+    {
+        "anime_id":12,
+        "anime_name":"Boku no Hero Academia",
+        "anime_img":"https://cdn.shopify.com/s/files/1/1878/3879/products/N4621.jpg?v=1556689600",
+        "anime_desc":"In a world populated with superhumans, the superhero-loving Izuku Midoriya is without power. However, after the Quirkless dreamer Izuku inherits the powers of the world's best superhero, All Might, his hopes of becoming the top hero are now possible. Once enrolled in the high school for heroes, U.A., Izuku soon discovers being a hero is much more complicated than it appears.",
+        "anime_url":"https://kissanime.com.ru/Anime/Boku-no-Hero-Academia-My-Hero-Academia.95538/"
+    }
+]
